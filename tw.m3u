@@ -1,29 +1,23 @@
-#EXTM3U
-#EXTINF:-1,ABC News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1,Cinemax
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.hklive.tv,http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="影視",CINEMAX
 http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
-#EXTINF:-1,CNBC
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1,DW
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1,ELEVEN 1
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 1
 http://61.221.81.93:8078/hls/25/80/esport.m3u8
-#EXTINF:-1,ELEVEN 1
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 1
 rtmp://119.81.124.89/sat/tv731
-#EXTINF:-1,ELEVEN 1
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 1
 rtmp://219.80.97.77/sat/tv731
-#EXTINF:-1,ELEVEN 1
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 1
 rtmp://9sv2.mine.nu/sat/tv731
-#EXTINF:-1,ELEVEN 2
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 2
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1,ELEVEN 2
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 2
 rtmp://119.81.124.89/sat/tv741
-#EXTINF:-1,ELEVEN 2
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 2
 rtmp://219.80.97.77/sat/tv741
-#EXTINF:-1,ELEVEN 2
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 2
 rtmp://9sv2.mine.nu/sat/tv741
-#EXTINF:-1,HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="影視",HBO 
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 #EXTINF:-1,HTB北海道ニュース
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
@@ -123,13 +117,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 rtmp://119.81.124.89/sat/tv111
 #EXTINF:-1,華視
 rtmp://219.80.97.77/sat/tv111
-#EXTINF:-1,寰宇新聞
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
 http://tv.redrainl.site:9500/live.m3u8?c=22
-#EXTINF:-1,寰宇新聞
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
 https://darlin8855.vercel.app/live/youtube/B7Zp3d6xXWw
-#EXTINF:-1,寰宇新聞
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1,寰宇新聞,TV
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
 https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 #EXTINF:-1,鏡新聞
 http://tv.redrainl.site:9500/live.m3u8?c=28
@@ -147,15 +141,15 @@ http://tv.redrainl.site:9500/live.m3u8?c=01
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1,民視新聞
 https://ytm2.yuanhsing.cf/FTVCP.m3u8
-#EXTINF:-1,翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-#EXTINF:-1,翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
-#EXTINF:-1,TVB J2
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港",TVB J2
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 #EXTINF:-1,TVB星河
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
-#EXTINF:-1,明珠台
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF:-1,無線材經
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
@@ -185,13 +179,13 @@ https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 rtmp://119.81.124.89/sat/tv771
 #EXTINF:-1,緯來日本
 rtmp://219.80.97.77/sat/tv771
-#EXTINF:-1,緯來體育
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png" group-title="體育",緯來體育
 rtmp://119.81.124.89/sat/tv721
-#EXTINF:-1,緯來體育
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png" group-title="體育",緯來體育
 rtmp://219.80.97.77/sat/tv721
-#EXTINF:-1,緯來體育
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png" group-title="體育",緯來體育
 rtmp://9sv2.mine.nu/sat/tv721
-#EXTINF:-1,緯來體育
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png" group-title="體育",緯來體育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,緯來育樂
 rtmp://119.81.124.89/sat/tv701
