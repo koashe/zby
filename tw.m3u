@@ -1,4 +1,13 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.hklive.tv,http://epg.51zmt.top:8000/e.xml,https://weareblahs.github.io/epg/astro.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" 
+#EXTM3U x-url-tvg="http://epg.51zmt.top:8000/e.xmll" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
+#EXTM3U x-url-tvg="https://epg.hklive.tv"
+#EXTM3U x-url-tvg="https://strimz.my.id/epg"
+#EXTM3U url-tvg="https://strimz.my.id/epg"
+
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="影視",CINEMAX
 http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 #EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 1
