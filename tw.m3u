@@ -21,8 +21,12 @@ https://epg.pw/stream/c7fbd2328f71230cca7f1675b004683248491968240e698f3e86066a77
 https://epg.pw/stream/d67f6a0e93d5c6fd05338351d37dba49073990c773a54d61c3532f02b0563ae2.ctv
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS LIVE.png" group-title="资讯",TVBS NEWS
 http://youtube.jacklam9.repl.co/youtube/m_dhMSvUCIc?quality=1080
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS LIVE.png" group-title="资讯",TVBS NEWS
+https://darlin8855.vercel.app/live/youtube/m_dhMSvUCIc
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
 http://youtube.jacklam9.repl.co/youtube/B7Zp3d6xXWw?quality=1080
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
+https://darlin8855.vercel.app/live/youtube/B7Zp3d6xXWw
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="影視",CINEMAX
 http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 #EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="體育",ELEVEN 1
