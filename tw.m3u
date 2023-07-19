@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" 
-#EXTM3U x-url-tvg="http://epg.51zmt.top:8000/e.xmll" 
+#EXTM3U x-url-tvg="http://epg.51zmt.top:8000/e.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
@@ -11,6 +11,16 @@
 http://113.117.74.18:8081/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBNEWS.png" group-title="资讯",無綫新聞
 http://192.168.2.1:5678/tvb.php?id=0&hq
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",無綫新聞
+http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/无线财经.png",無綫財經
+http://live.cooltv.top/tv/tvb.php?id=2
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png",TVB星河
+http://nsszds.f3322.net:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png",TVB星河
+http://103.112.191.9:880/LAOSAT1092.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYTV.png" group-title="资讯",HOY電視
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYNEWS.png" group-title="资讯",HOY資訊台
