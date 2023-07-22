@@ -44,19 +44,6 @@ VIUTV6,http://120.132.122.244:59847/hls/85/index.m3u8
 VIUTV,http://120.132.122.244:59847/hls/86/index.m3u8
 
 台湾备用,#genre#
-东森新闻,https://www.5209.eu.org/live?rid=khuZW5GdBXo
-中视新闻,https://www.5209.eu.org/live?rid=TCnaIE_SAtM
-中天新闻,https://www.5209.eu.org/live?rid=oIgbl7t0S_w
-寰宇新闻,https://www.5209.eu.org/live?rid=B7Zp3d6xXWw
-台视新闻,https://www.5209.eu.org/live?rid=xL0ch83RAK8
-华视新闻,https://www.5209.eu.org/live?rid=wM0g8EoUZ_E
-三立新闻,https://www.5209.eu.org/live?rid=CKjSm5ZeehE
-TVBS新闻,https://www.5209.eu.org/live?rid=YvdcZ_jpLXE
-三立海外,https://www.5209.eu.org/live?rid=FoBfXvlOR6I
-TVBS新闻,https://www.5209.eu.org/live?rid=2mCSYvcfhtc
-东森新闻1,https://www.5209.eu.org/live?rid=R2iMq5LKXco
-镜新闻,https://www.5209.eu.org/live?rid=5n0y6b0Q25o
-民视新闻,https://www.5209.eu.org/live?rid=ylYJSBUgaMA
 民視,https://fsv4.yj011.net/sat/tv051.flv
 台視,https://fsv4.yj011.net/sat/tv071.flv
 中視,https://fsv4.yj011.net/sat/tv091.flv
