@@ -1,12 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" 
 #EXTM3U x-url-tvg="http://epg.51zmt.top:8000/e.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
 #EXTM3U x-url-tvg="https://epg.hklive.tv"
-#EXTM3U x-url-tvg="https://strimz.my.id/epg"
-#EXTM3U url-tvg="https://strimz.my.id/epg"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://epg.112114.xyz/pp.xml,https://epg.51zmt.top:8000/e.xml,https://epg.hklive.tv" 
+
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBJade.png" group-title="资讯",翡翠台
 http://113.117.74.18:8081/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBNEWS.png" group-title="资讯",無綫新聞
