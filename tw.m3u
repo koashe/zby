@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBJade.png" group-title="资讯",翡翠台
 http://113.117.74.18:8081/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBNEWS.png" group-title="资讯",無綫新聞
-http://192.168.2.1:5678/tvb.php?id=0&hq
+http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/inews_twn/playlist.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",無綫新聞
