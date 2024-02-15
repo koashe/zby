@@ -1,1 +1,86 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="台湾频道",华视
+http://www.51romzj.shop:666/xingxing.php?id=cts
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台湾频道",台视
+http://www.51romzj.shop:666/xingxing.php?id=ttv
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾频道",中视
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="台湾频道",公视
+http://www.51romzj.shop:666/xingxing.php?id=pts
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾频道",民视
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv002
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="台湾频道",民视第一台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="台湾频道",民视台湾台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://live.fanmingming.com/tv/民视旅游台.png" group-title="台湾频道",民视旅游台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=litv-ftv07
+#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png" group-title="台湾频道",民视综艺台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台湾频道",中天新闻台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv009
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台湾频道",中天新闻台
+http://www.51romzj.xyz/diyroms117/dll/ysp/yes.php?id=zhongtianxinwen12
+#EXTINF:-1 tvg-id="中天新闻2台" tvg-name="中天新闻2台" tvg-logo="https://epg.112114.xyz/logo/中天新闻2台.png" group-title="台湾频道",中天新闻2台
+http://www.51romzj.shop:666/ytb123.php?id=ztxw2
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台湾频道",中天亚洲台
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="台湾频道",中视新闻台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv074
+#EXTINF:-1 tvg-id="年代ERANewsHD" tvg-name="年代ERANewsHD" tvg-logo="https://live.fanmingming.com/tv/年代ERANewsHD.png" group-title="台湾频道",年代新闻台
+http://www.51romzj.xyz/diyroms117/dll/ysp/yes.php?id=niandaixw
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾频道",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+http://www.51romzj.xyz/diyroms117/dll/ysp/yes.php?id=TVBSxinwen
+#EXTINF:-1 tvg-id="TVBS56" tvg-name="TVBS56" tvg-logo="https://epg.112114.xyz/logo/TVBSHD.png" group-title="台湾频道",TVBS56
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+http://www.51romzj.xyz/diyroms117/dll/ysp/yes.php?id=TVBS123
+#EXTINF:-1 tvg-id="TVBSNEWS" tvg-name="TVBSNEWS" tvg-logo="https://epg.112114.xyz/logo/TVBSNEWS.png" group-title="台湾频道",TVBSNEWS
+http://www.51romzj.shop:666/ytb123.php?id=TVBSNEWS
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://epg.112114.xyz/logo/非凡新闻.png" group-title="台湾频道",非凡新闻台
+http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="台湾频道",民视新闻台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=litv-ftv13
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾频道",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+http://www.51romzj.shop:666/xingxing.php?id=ttv-news
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台湾频道",华视新闻台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾频道",中视新闻台
+http://www.51romzj.shop:666/xingxing.php?id=ctv-news
+#EXTINF:-1 tvg-id="EBCNews" tvg-name="EBCNews" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="台湾频道",东森新闻台
+http://www.51romzj.xyz/diyroms117/dll/ysp/yes.php?id=dongshenxinwen
+#EXTINF:-1 tvg-id="东森美洲台" tvg-name="ETTV" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg" group-title="台湾频道",东森美洲台
+http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
+#EXTINF:-1 tvg-id="东森美国" tvg-name="东森美国" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023212524554784_66.jpg" group-title="台湾频道",东森美国
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="台湾频道",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png" group-title="台湾频道",三立新闻台
+http://www.51romzj.shop:666/ytb123.php?id=slhw
+#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/三立iNEWS.png" group-title="台湾频道",三立iNEWS
+http://www.51romzj.shop:666/ytb123.php?id=sliNEWS
+#EXTINF:-1 tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png" group-title="台湾频道",三立NEWS+
+http://www.51romzj.shop:666/ytb123.php?id=slnews
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="台湾频道",寰宇新闻台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=litv-longturn14
+#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台湾台.png" group-title="台湾频道",寰宇新闻台湾台
+http://www.51romzj.shop:666/ytb123.php?id=hyxwtwt
+#EXTINF:-1 tvg-id="壹新闻" tvg-name="壹新闻" tvg-logo="https://epg.pw/media/images/channel/2016/12/24/large/20161224235554075606_20.png" group-title="台湾频道",壹新闻台
+http://www.51romzj.shop:666/xingxing.php?id=nexttv
+#EXTINF:-1 tvg-id="镜新闻 tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾频道",镜新闻
+http://www.51romzj.shop:666/xingxing.php?id=mnews
+#EXTINF:-1 tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://live.fanmingming.com/tv/靖天国际.png" group-title="台湾频道",靖天国际
+http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1 tvg-id="靖天日本" tvg-name="靖天日本" tvg-logo="https://live.fanmingming.com/tv/靖天日本.png" group-title="台湾频道",靖天日本
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv047
+#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="台湾频道",靖天电影
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="台湾频道",龙华电影
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=litv-longturn03
+#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="台湾频道",龙华日韩
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=litv-longturn11
+#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://live.fanmingming.com/tv/影迷数位电影台.png" group-title="台湾频道",影迷数位电影台
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv011
+#EXTINF:-1 tvg-id="CNEX纪实频道" tvg-name="CNEX纪实频道" tvg-logo="https://live.fanmingming.com/tv/CNEX纪实频道.png" group-title="台湾频道",CNEX纪实频道
+http://www.51romzj.xyz/zb/030917/4gtv.php?id=4gtv-4gtv013
