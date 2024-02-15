@@ -1,3 +1,73 @@
+測試,#genre#
+凤凰中文,http://8.210.207.87/tbs.php?id=iMqk7n9PpS
+凤凰资讯,http://8.210.207.87/tbs.php?id=Fve2fj7qVA
+翡翠台,http://8.210.207.87/tbs.php?id=r9vuMI4wk1
+TVB明珠,http://8.210.207.87/tbs.php?id=qRFmR2JQh7
+TVB J2,http://8.210.207.87/tbs.php?id=KJQLjeRJlt
+TVB无线新闻,http://8.210.207.87/tbs.php?id=uEEDGxxXlb
+TVB财体体育资讯 A,http://8.210.207.87/tbs.php?id=teVyyIFEDM
+TVB财体体育资讯 B,http://8.210.207.87/tbs.php?id=pOjPWzTToq
+Viu TV,http://8.210.207.87/tbs.php?id=3TdSvtisZh
+VIU 6,http://8.210.207.87/tbs.php?id=k2pGdZHDip
+RTHK31,http://8.210.207.87/tbs.php?id=F5zq5Rrtep
+RTHK32,http://8.210.207.87/tbs.php?id=JO6WH9SDG1
+HOY资讯,http://8.210.207.87/tbs.php?id=irGpBT4hUb
+澳门莲花,http://8.210.207.87/tbs.php?id=3VVeE0vL5e
+民视,http://8.210.207.87/tbs.php?id=H3ZMykGm5h
+中视,http://8.210.207.87/tbs.php?id=UbOLq9nqhG
+华视,http://8.210.207.87/tbs.php?id=uJO2sb8JCL
+台视,http://8.210.207.87/tbs.php?id=AXYWFcfcpy
+TVBS,http://8.210.207.87/tbs.php?id=jPXk2lPri2
+TVBS新闻,http://8.210.207.87/tbs.php?id=WWmwcMrzu3
+民视新闻,http://8.210.207.87/tbs.php?id=LwQSrc7LAN
+中视新闻,http://8.210.207.87/tbs.php?id=3U1v7RYzBP
+台视新闻,http://8.210.207.87/tbs.php?id=DfaAJrTYhQ
+寰宇新闻,http://8.210.207.87/tbs.php?id=JSErUwoj3B
+中天新闻,http://8.210.207.87/tbs.php?id=P2qCJJZZIA
+年代新闻,http://8.210.207.87/tbs.php?id=gvjO1DeEWp
+东森新闻,http://8.210.207.87/tbs.php?id=MxgZC9JCDG
+三立inews,http://8.210.207.87/tbs.php?id=x7HNv8eBkx
+非凡新闻,http://8.210.207.87/tbs.php?id=5fo9vs39tw
+壹新闻,http://8.210.207.87/tbs.php?id=BWTEwQ14D3
+东森戏剧,http://8.210.207.87/tbs.php?id=5eqXaurVnf
+HBO,http://8.210.207.87/tbs.php?id=8G9BmWfoyn
+天映频道(粤语),http://8.210.207.87/tbs.php?id=7ee9OMbqvB
+天映频道(国语),http://8.210.207.87/tbs.php?id=lxcKnE7w1a
+Thrill,http://8.210.207.87/tbs.php?id=ANj2Dd511s
+华艺综合,http://8.210.207.87/tbs.php?id=8NJpzLByid
+ELTA影剧,http://8.210.207.87/tbs.php?id=bJx2FlxNdZ
+东森电影,http://8.210.207.87/tbs.php?id=frwTClSDcN
+东森洋片,http://8.210.207.87/tbs.php?id=Fo1VSd4sZF
+东森戏剧,http://8.210.207.87/tbs.php?id=yPCV21bPaW
+龙祥时代,http://8.210.207.87/tbs.php?id=oanvychmTO
+AXN,http://8.210.207.87/tbs.php?id=ZsoL7CU3cf
+龙华电影,http://8.210.207.87/tbs.php?id=2pZkI8dJTm
+探索频道,http://8.210.207.87/tbs.php?id=ydIcIUpy1J
+好莱坞电影,http://8.210.207.87/tbs.php?id=KuRVPC3qEp
+CINEMAX,http://8.210.207.87/tbs.php?id=AmkvL3ynew
+ELEVEN体育1台,http://8.210.207.87/tbs.php?id=uLX4g2tSkG
+ELTA体育 1,http://8.210.207.87/tbs.php?id=VVaj4qt9WF
+ELTA体育 3,http://8.210.207.87/tbs.php?id=YR5OYEgfhN
+ELTA体育 4,http://8.210.207.87/tbs.php?id=MZ8fjXXw4q
+博斯高球1,http://8.210.207.87/tbs.php?id=jg5OB8e8Mz
+博斯高球2,http://8.210.207.87/tbs.php?id=FaD9Xr1yYo
+龙华戏剧,http://8.210.207.87/tbs.php?id=R1LWZF8ALG
+龙华洋片,http://8.210.207.87/tbs.php?id=DnQxHrZegG
+HBO Hits,http://8.210.207.87/tbs.php?id=6U6Qx1afRt
+镜新闻,http://8.210.207.87/tbs.php?id=Uaa8WksdKU
+LIVE三立,http://8.210.207.87/tbs.php?id=ZdWcDL9ic3
+HBO Signature,http://8.210.207.87/tbs.php?id=ykZS0jRn2P
+动物星球,http://8.210.207.87/tbs.php?id=mCdz1N8prQ
+HBO Family,http://8.210.207.87/tbs.php?id=4OdVylBZOe
+
+
+
+
+
+
+
+
+
 159CR_126,#genre#
 潘多拉完美,p3p://108.181.20.159:75120/5fe4450c000c918b829fca233c845311
 香蕉,p3p://108.181.20.159:75120/60626a760005067e6f5bbecb5816771e
