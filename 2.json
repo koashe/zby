@@ -58,14 +58,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "群里扒来的",
+      "name": "测试3",
       "type": 0,
       "url": "https://wds.ecsxs.com/230864.json",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "群里扒来的",
+      "name": "测试4",
       "type": 0,
       "url": "https://wds.ecsxs.com/230864.json",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
