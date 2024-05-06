@@ -30,9 +30,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Arrasyid22",
+      "name": "eR1zxNO",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Arrasyid22/inaldie/main/Inal%20Playlist%20Ott",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eR1zxNO/1/main/1.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -58,9 +58,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "6",
+      "name": "xx",
       "type": 0,
-      "url": "https://wds.ecsxs.com/230864.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aabadfer/iptv/main/iptv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
