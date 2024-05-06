@@ -37,23 +37,23 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "xxx",
+      "name": "jfd2020",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asiaboke/IPTV/06860c55e92bcc90b255f4b7d3046c52411f3769/xxx/flzb.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jfd2020/jfd2020.github.io/e76b52d34a5791df371aa208880194d9fbcdfec6/%E5%AE%89%E5%8D%9A.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
    {
-      "name": "xxxx",
+      "name": "j67001",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cxr9912/cxr2022/main/18zb.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/j67001/test/main/j",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "5",
+      "name": "STAR-MARRANO",
       "type": 0,
-      "url": "https://wds.ecsxs.com/230864.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
