@@ -16,7 +16,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "hus888",
+      "name": "zby",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/koashe/zby/main/zy.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
