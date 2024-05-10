@@ -67,7 +67,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "",
+      "url": "https://raw.githubusercontent.com/Lucasle234/iptv/main/nsfw.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
