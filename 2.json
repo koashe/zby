@@ -44,9 +44,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
    {
-      "name": "j67001",
+      "name": "LinWei0718",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/j67001/test/main/j",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/LinWei0718/iptvtw/1c174999078914d33f1d6932304f1ee2fa9f794a/maotv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
