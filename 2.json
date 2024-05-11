@@ -11,7 +11,7 @@
     {
       "name": "Smart",
       "type": 0,
-      "url": "https://ghproxy.org/https://raw.githubusercontent.com/cairong/iptv-yuan/main/oumei.m3u",
+      "url": "",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -30,9 +30,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "eR1zxNO",
+      "name": "4gtv",
       "type": 0,
-      "url": "https://ghproxy.org/https://raw.githubusercontent.com/eR1zxNO/1/main/1.txt",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/winterxg/tvb/main/live/4g0418.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -44,9 +44,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
    {
-      "name": "LinWei0718",
+      "name": "om",
       "type": 0,
-      "url": "https://ghproxy.org/https://raw.githubusercontent.com/LinWei0718/iptvtw/1c174999078914d33f1d6932304f1ee2fa9f794a/maotv.txt",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/cairong/iptv-yuan/main/oumei.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -60,14 +60,14 @@
     {
       "name": "xx",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aabadfer/iptv/main/iptv.m3u",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/aabadfer/iptv/main/iptv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "live",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Lucasle234/iptv/main/nsfw.m3u",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/Lucasle234/iptv/main/nsfw.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
