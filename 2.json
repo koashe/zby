@@ -11,7 +11,7 @@
     {
       "name": "Smart",
       "type": 0,
-      "url": "",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/koashe/zby/main/SmartTV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
