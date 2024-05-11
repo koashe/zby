@@ -11,49 +11,49 @@
     {
       "name": "Smart",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cairong/iptv-yuan/main/oumei.m3u",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/cairong/iptv-yuan/main/oumei.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "zby",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/koashe/zby/main/%E6%AC%A71.txt",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/koashe/zby/main/%E6%AC%A71.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
       "name": "ubtv",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wolfcode9/OpenChannel/main/live2.txt",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/wolfcode9/OpenChannel/main/live2.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "eR1zxNO",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eR1zxNO/1/main/1.txt",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/eR1zxNO/1/main/1.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "jfd2020",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jfd2020/jfd2020.github.io/e76b52d34a5791df371aa208880194d9fbcdfec6/%E5%AE%89%E5%8D%9A.txt",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/jfd2020/jfd2020.github.io/e76b52d34a5791df371aa208880194d9fbcdfec6/%E5%AE%89%E5%8D%9A.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
    {
       "name": "LinWei0718",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/LinWei0718/iptvtw/1c174999078914d33f1d6932304f1ee2fa9f794a/maotv.txt",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/LinWei0718/iptvtw/1c174999078914d33f1d6932304f1ee2fa9f794a/maotv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "STAR-MARRANO",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
