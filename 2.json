@@ -4,7 +4,7 @@
     {
       "name": "myhomebox",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/myhomebox/tv/0adc729e67446150afc7c6dd50fcc22bf1a3ca10/live.m3u",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/myhomebox/tv/0adc729e67446150afc7c6dd50fcc22bf1a3ca10/live.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
