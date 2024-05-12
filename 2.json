@@ -9,9 +9,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Smart",
+      "name": "ouhua",
       "type": 0,
-      "url": "https://ghproxy.org/https://raw.githubusercontent.com/koashe/zby/main/SmartTV.txt",
+      "url": "https://ghproxy.org/https://raw.githubusercontent.com/koashe/zby/main/ouhua.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
