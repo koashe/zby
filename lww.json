@@ -1,11 +1,14 @@
 {
 "lives":[
-{"name":"央视频","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"fanmingming","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YanG-1989","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"4gtv","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/sqspot/tac/main/iptv/4gtv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"switch","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/linitfor/MyTV/2a939cef64497badad2f237c3d8abe6b7cb7b398/TW_switch.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"histar","type":0,"url":"https://ghproxy.net/https://lsj.37o.xyz/histar.php?list","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"ubvip1688","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/linitfor/MyTV/main/Source/ubvip1688","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"jfd2020","type":0,"url":"https://ghproxy.net/https://ghproxy.net/https://raw.githubusercontent.com/jfd2020/jfd2020.github.io/e76b52d34a5791df371aa208880194d9fbcdfec6/%E5%AE%89%E5%8D%9A.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"zby","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/koashe/zby/main/zby.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 {"name":"SmartTV","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/linitfor/MyTV/main/Source/SmartTV.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"央视频","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"fanmingming","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YanG-1989","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ]
 }
