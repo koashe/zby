@@ -1,6 +1,6 @@
 {
 
-"spider": "https://ghproxy.org/https://github.com/aa1555/Repository/raw/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/jar/feimao.jar;md5;364c0f012e73a8801a69900fc25ae9c1",
+"spider": "https://ghproxy.net/https://github.com/aa1555/Repository/raw/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/jar/feimao.jar;md5;364c0f012e73a8801a69900fc25ae9c1",
 
 "lives":[
 {"name":"央视频","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
