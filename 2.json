@@ -8,26 +8,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "ouhua",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/SSM0415/apptest/main/Global%20Tv.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "zby",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/koashe/zby/main/zy.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
-    {
-      "name": "ubtv",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/wolfcode9/OpenChannel/main/live2.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
       "name": "4gtv",
       "type": 0,
