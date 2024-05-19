@@ -6,6 +6,6 @@
 {"name":"4gtv","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/sqspot/tac/main/iptv/4gtv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"switch","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/linitfor/MyTV/2a939cef64497badad2f237c3d8abe6b7cb7b398/TW_switch.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"histar","type":0,"url":"https://ghproxy.net/https://lsj.37o.xyz/histar.php?list","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"histar","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/linitfor/MyTV/main/Source/SmartTV.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"SmartTV","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/linitfor/MyTV/main/Source/SmartTV.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ]
 }
