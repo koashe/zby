@@ -1,7 +1,7 @@
 {
 
 "spider":"./N3RD/J/lem0518.jar;md5;0DAF3110E4D4DC833A2A3D344877E3FE",
-
+  
 "lives":[
 {"name":"央视频","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FTYLive","type":0,"url":"https://xhdwc.tk/xiutan.m3u","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"},
