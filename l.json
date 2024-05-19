@@ -1,0 +1,9 @@
+{
+"lives":[
+{"name":"央视频","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"fenxp","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+
+
+]
+}
