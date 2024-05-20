@@ -1,6 +1,5 @@
 {
 "lives":[
-{"name":"4gtv","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/sqspot/tac/main/iptv/4gtv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"zby","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/koashe/zby/main/zby.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"yshipin","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"fanmingming","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
