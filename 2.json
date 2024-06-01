@@ -1,13 +1,6 @@
 {
   "lives": [
     {
-      "name": "myhomebox",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/mlzlzj/iptv/7359aaa3977ee0c19f29818fd96d7b50cb470ce4/iptv_list.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "zby",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/koashe/zby/main/zby.txt",
