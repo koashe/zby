@@ -1,9 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL",La Une Euro
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
-https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/06 23:30 欧洲杯1/4决赛 英格兰vs瑞士 娄一晨 刘越 金佳悦
+https://livednow.com/migu/920870160?sign=gAAAAABmiUWV0KW60bGSatDrK89pbnYMBzNzmo62ePmIHVAeX-5bw11GpvefhbDY7ge8onTn9_FodLAKIBugXTV8x35P6gFPNd1Qbx8BvhZinrHzcl0AJWL6COGXi9Po_r5BSi2Q7eGRdswU6Ne2fJICFFy4Y0rPVR9YOryYEfs5Hw_IpFIWVwI494VdIvsHzUSsfLWIl8WklcZyb8UrnvwdeDC_bZc_DQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/06 23:30 欧洲杯1/4决赛 英格兰vs瑞士 黄健翔 徐阳
+https://livednow.com/migu/920858161?sign=gAAAAABmiUWVp7CehYzOgXDo-DlwThEVf0udmmXJzmZdAWkQZOlwN0AN5cnrC7KLkSUiRnlt7517PM7KOu6mHoMWHQCCHb4FZsBfuzn5GDiOFsZ1uKU2lj4kpuMGHZyxoXWCnGHn8MqeE0V_Lf_6rmm_6lLiGS0fZpz4yySsaIDNSCxx5GkG4Xc5dQUSzUPatEAMxArw7wBC6d7zaYTFtXhY79Fyb-mhmg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/06 23:30 赛场原声
+https://livednow.com/migu/920858540?sign=gAAAAABmiUWVYFrijRCzVKTvvHbdJaXzoxPhM0dn2X7E10iubjpa0TMn-DTq5qXM0zpUOTW7gS9yzFCR-Rg-CHSYCug5Z0vDdVn47-WwzTvklLNiuIofpinUt57WNsyHY1KL4V-jt-MZVuNw_rX7WgVCsiGhDXKDB47hrbwW9nSEdDNdEdcpICeAudB9xjI6_6OTyOrBu7XRteP_FNTTraWOB9cOVQKGNw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/06 23:30 欧洲杯1/4决赛 英格兰vs瑞士 AVS3
+https://livednow.com/migu/920857790?sign=gAAAAABmiUWVKZ8MOIxYp3ES9nhBjD9N9uXJ_gGbi6o91HuV2rMWGosgAAGHurdse-B4P9M_bIFWbfqy7ntooTI3Ei7wWQuInidRaZPmhoymoR8PFEja6HRBsQVxDlQUxne3GJu_YLgUpBUAWwLgECK55bvQIqVSK9AygW1YYAN9dw3Xi6yNjmPqX_5ZPVBwC4xgLijVIYVQcZqANRy9gA55fuLiFo6FEQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/07 02:20 欧洲杯1/4决赛 荷兰vs土耳其 刘腾 贺宇 李子琪
+https://livednow.com/migu/920870836?sign=gAAAAABmiUWVOdDqAhM_a4rfMe7rbQIhW2OJe5RW4JS3rRctjs7Cg0DMWdkagOtN0ENNLOwuUzo_BWPSVxBUQEp6X1xPdRQjBDQqjWXehhotteA7w4pev3PvoqXf3uD9KpG-nj9ltaZFJJLYcIQfjywv2YMtMtVZVxzU1rlHXQp3sW0FTJWlENn97l3Lb3p1Yy1b4a0TTNfRXWP2Zs0V53T9mo3OvDuMsQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/07 02:20 欧洲杯1/4决赛 荷兰vs土耳其 梁祥宇 管泽元
+https://livednow.com/migu/920870679?sign=gAAAAABmiUWVXz2n5_VoMai-bOjmK0FDWqP5VJqoDa-iDXRa7yaUDtkuIIHL7Cgp7Cj1_9xXcDBTO8tejLckeYmPAE95UfmJG_-xySwoDHM85OPTTfKCh6D-SVXOI8gp6cLBsHqyrQs7nisw77zhG4rW-oWZ2rt8G3jzm4ywkCtoOeggLUOjXTv-8xdTf--G5TXRp13hV53rTSZZ1Ex92bWNXGN8MIkFBg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/07 02:20 欧洲杯1/4决赛 荷兰vs土耳其 赛场原声
+https://livednow.com/migu/920864339?sign=gAAAAABmiUWVYAUHInyRGRRGn8PNUQk0KQVkwMQPkTlvWFsiH9h_ueuJ18XJrp8FHlZornbfllSw-BC3MxhhdLLhc0t7zGlL8SOpC_wuUS-pW3sAdkslNOlSS5EXEh1iykCRoGu1ixQkfGZ_HU0Ne-kc3bDRZ5hM0qNf1MXzcx29IAhr3VrpStfmgFnm8eJpTA0BIPxqAW2WjYrCagCYxica9It551i9jw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/07 02:20 欧洲杯1/4决赛 荷兰vs土耳其 粤语解说
+https://livednow.com/migu/920859875?sign=gAAAAABmiUWVC6-aadvi6f6gNTyVl9qH8Ht2QQwMLO8iXAHVcZRZ9Dt9df5qUT3_vP0tKyLhVErfkRANfr30Crvdt-lygg46hzy02HG7TJ2NFSsmZPrReROojfX4lhQ4dFQ_S9kNHecqLJ8Q-hfc5bHk26x_uTAZgahfxI0BN07XbZq22Cl5Vy3RjwZD1K6kh1KMoI7VaiWvMarDsalpAYje-8RSoVyc9A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/07 02:20 欧洲杯1/4决赛 荷兰vs土耳其 AVS3
+https://livednow.com/migu/920858273?sign=gAAAAABmiUWVtNyOJiKHgiiajGKap1REImAZI36ex4MF31OpZS32A9sF3Ys8iUHnZP3TfEFb_Uhe_W3h8QGzLP2F6QH_GHnZvIt0OicDrKPjQmKKktH-7pX9q5AsJIpQ_mi1igDBszqLv1dYNgG_yp40Ph7VkQuvVd2MblmrAgvOwx73eYJMcfhhF6dJkeCIhfR31ejnW1zaMXL9hqQXw2SGnCiRuvyo8g%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA",07/07 04:25 NBA夏季联赛加州经典赛 国王vs湖人 解说
+https://livednow.com/migu/920870550?sign=gAAAAABmiUWV3hb_0D-7TyZsBYmfNSS3ULXr4U8P_fT_RpO2xIoWnkJpmT59qdnu_foG3B5m4o--fT6SFtTFRRgYK8uGP-0Yq8wsO1ZYhSB2l8b7GUsXZiGYWVPRZvT7D0IHsLhIGAmoKLqWPuNB_UE5MWDPnorwe-5yTeQx8Y-Fek8IdG4FsmfBSNJLNMqgXFc8FEzJfAeyWVrAcQEVpCuihvcc3HHiZg%3D%3D
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/05 23:20 欧洲杯1/4决赛 西班牙vs德国 解说
 https://livednow.com/migu/920857887?sign=gAAAAABmiBhO_nQxVU7iWF8V5Q3a20sjtcDGLslWLxE1TtzmXAxCYVOSkkpZQFB4bRmzXqDMjQanRQMgOMmFzmzFDlsv_hQG2BzbNTxYue22ChA3Pv4EnkNl_hUcuCumQ6ajqJNhXUoyGfRYY4DuZ01yi_6hq5RYuevrDadai5cx6J_IPziZpctnEAO-WLM0dlj1arBOz3wWQG-Eff8kbd09Ov3z3s-KoQ%3D%3D
