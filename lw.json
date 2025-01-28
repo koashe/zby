@@ -2,7 +2,9 @@
 "lives":[
 {"name":"zby","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/koashe/zby/main/zby.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"yshipin","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"fanmingming","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YanG-1989","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"fanmingming itv","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"fanmingming ipv6","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"YanG-1989","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}  
+{"name":"YanG-1989","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ]
 }
