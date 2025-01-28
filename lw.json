@@ -8,7 +8,7 @@
 {"name":"YanG-1989","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"zong-he-ding-yue 1","type":0,"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=298688230065203","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"zong-he-ding-yue 2","type":0,"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"IPTV研究所1","type":0,"url":"https://www.mytvsuper.com.mp/m3u/Live.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"IPTV研究所1","type":0,"url":"https://www.mytvsuper.com.mp/m3u/Live.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPTV研究所2","type":0,"url":"https://www.mytvsuper.com.mp/m3u/judy.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ]
 }
