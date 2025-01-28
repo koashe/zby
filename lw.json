@@ -1,6 +1,6 @@
 {
 "lives":[
-{"name":"体育直播","type":0,"url":"https://ghproxy.net/https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"体育直播","type":0,"url":"https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"yshipin","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"fanmingming itv","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"fanmingming ipv6","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
