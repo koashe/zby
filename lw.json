@@ -7,5 +7,6 @@
 {"name":"YanG-1989","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}  
 {"name":"YanG-1989","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 {"name":"YanG-1989","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"IPTV研究所","type":0,"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ]
 }
