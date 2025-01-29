@@ -52,7 +52,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/Lucasle234/iptv/main/nsfw.m3u",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/live.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
