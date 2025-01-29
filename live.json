@@ -36,16 +36,16 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "STAR-MARRANO",
+      "name": "zjykfy",
       "type": 0,
-      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/zjykfy/yy-ff-yy/c702b5d9c9014a90a17a15275afa0cc6b812e2cc/all.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "xx",
+      "name": 52sw",
       "type": 0,
-      "url": "",
+      "url": "http://www.52sw.top:678/play/mytvsuper/",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
