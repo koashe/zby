@@ -1,51 +1,58 @@
 {
   "lives": [
     {
-      "name": "zby",
+      "name": "aktv",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/koashe/zby/main/zby.txt",
+      "url": "http://aktv.top/live.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
-      "name": "4gtv",
+      "name": "综合",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/winterxg/tvb/main/live/4g0418.txt",
+      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "jfd2020",
+      "name": "体育",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/jfd2020/jfd2020.github.io/e76b52d34a5791df371aa208880194d9fbcdfec6/%E5%AE%89%E5%8D%9A.txt",
+      "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-   {
-      "name": "om",
+    {
+      "name": "央视",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/cairong/iptv-yuan/main/oumei.m3u",
+      "url": "https://video.mytvsuper.xyz/playlist/yang-shi-wei-shi.m3u?token=395626593195248",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "365直播",
+      "type": 0,
+      "url": "https://live.iptv365.org/live.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "STAR-MARRANO",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "xx",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aabadfer/iptv/main/iptv.m3u",
+      "url": "",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Lucasle234/iptv/main/nsfw.m3u",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/Lucasle234/iptv/main/nsfw.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
