@@ -43,9 +43,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": 52sw",
+      "name": "tt",
       "type": 0,
-      "url": "http://www.52sw.top:678/play/mytvsuper/",
+      "url": "https://raw.githubusercontent.com/j67001/test/80947719f2f943c168c4e6807b436b9f59a60bf3/tt.swf",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
