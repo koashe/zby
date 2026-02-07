@@ -8,9 +8,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
-      "name": "综合",
+      "name": "日后看球",
       "type": 0,
-      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
+      "url": "http://rihou.cc:555/gggg.nzk",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
