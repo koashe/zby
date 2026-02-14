@@ -3,7 +3,7 @@
     {
       "name": "冰茶体育",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/tianli1680/iptv/refs/heads/main/%E5%86%B0%E8%8C%B6%E4%BD%93%E8%82%B2.m3u",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/tianli1680/iptv/refs/heads/main/%E5%86%B0%E8%8C%B6%E4%BD%93%E8%82%B2.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
@@ -45,7 +45,7 @@
     {
       "name": "tt",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/j67001/test/80947719f2f943c168c4e6807b436b9f59a60bf3/tt.swf",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/j67001/test/80947719f2f943c168c4e6807b436b9f59a60bf3/tt.swf",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
