@@ -64,29 +64,8 @@ https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tennis-channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=videoland-sports-channel
 
-#EXTINF:-1 group-title="♦️ TAIWAN ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/wlty-1-480x320.png", 纬来电影
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=videoland-movie
 
-#EXTINF:-1 group-title="♦️ TAIWAN ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/wlty-1-480x320.png", 纬来育乐
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=videoland-max-tv
 
-#EXTINF:-1 group-title="♦️ TAIWAN ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/wlty-1-480x320.png", 纬来日本
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=videoland-japan-channel
-
-#EXTINF:-1 group-title="♦️ TAIWAN ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5a214c5249a75_DKEB-480x320.png", HBO HD TW
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=hbo
-
-#EXTINF:-1 group-title="♦️ TAIWAN ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/68937a1fa102b_37U1-480x320.png", HBO SIGNATURE TW
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=hbo-signature-taiwan
-
-#EXTINF:-1 group-title="♦️ TAIWAN ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/wszw-1-480x320.png", STARMOVIES TW
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=star-movies-chinese
 
 
 
