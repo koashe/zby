@@ -1,5 +1,25 @@
 #EXTM3U x-tvg-url="https://static.188766.xyz/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png" group-title="Sports",愛爾達體育1台
+http://gat.xyys.site/cdnlive.php?mode=play;id=95243f1030a854eab5305eccad5cf992;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育2.png" group-title="Sports",愛爾達體育2台
+http://gat.xyys.site/cdnlive.php?mode=play;id=d54a490d192f5df591251218cd2a4d0f;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育3.png" group-title="Sports",愛爾達體育3台
+http://gat.xyys.site/cdnlive.php?mode=play;id=09112bc03a3a5b26b67643e087456c40;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
+#EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育4.png" group-title="Sports",愛爾達體育4台
+http://gat.xyys.site/cdnlive.php?mode=play;id=f85d688843fe5ac4bf011ce011aa7708;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
+
+#EXTINF:-1 tvg-id="616" tvg-name="NOW Sports 616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="Sports",NOW Sports 616
+http://77.90.60.172:55555/6
+#EXTINF:-1 tvg-id="nowSports6.hk" tvg-name="NOW Sports 617 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="Sports",NOW Sports 617 4K
+http://77.90.60.172:55555/8
+#EXTINF:-1 tvg-id="618" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="Sports",NOW Sports 618
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
+http://77.90.60.172:55555/3
+#EXTINF:-1 tvg-id="619" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="Sports",NOW Sports 619
+http://77.90.60.172:55555/4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0 
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax",ELTA SPORT 1 (TWN)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
