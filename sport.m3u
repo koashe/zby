@@ -10,19 +10,7 @@ http://gat.xyys.site/cdnlive.php?mode=play;id=09112bc03a3a5b26b67643e087456c40;t
 #EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育4.png" group-title="Sports",愛爾達體育4台
 http://gat.xyys.site/cdnlive.php?mode=play;id=f85d688843fe5ac4bf011ce011aa7708;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRFn6n1/ezgif-2f46fadfa12b4898.png" group-title="Sports",NOW SPORTS PRIME
-http://42.98.241.116:9241/0.ts
-http://shangshui2.7766.org:9241/0.ts
 
-#EXTINF:-1 tvg-id="616" tvg-name="NOW Sports 616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="Sports",NOW Sports 616
-http://77.90.60.172:55555/6
-#EXTINF:-1 tvg-id="nowSports6.hk" tvg-name="NOW Sports 617 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="Sports",NOW Sports 617 4K
-http://77.90.60.172:55555/8
-#EXTINF:-1 tvg-id="618" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="Sports",NOW Sports 618
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
-http://77.90.60.172:55555/3
-#EXTINF:-1 tvg-id="619" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="Sports",NOW Sports 619
-http://77.90.60.172:55555/4
 
 
 
